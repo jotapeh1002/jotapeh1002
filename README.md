@@ -5,7 +5,7 @@
 # 👋 Olá, eu sou Alisson Gomes!
 
 - ⚡ Tenho 25 anos sou fascinado pela área da Tecnologia! amo criar soluções inovadoras e Reais para o mercado!
-- 🔭 Atualmente trabalhando com: **Angular, NestJS, React, React Native, NextJS, NodeJS**
+- 🔭 Atualmente trabalhando com: **Angular, NestJS, React, React Native, NextJS, NodeJS, Java, Spring-Boot**
 - 🌱 Estudando: **Rust e Golang** - explorando sistemas de baixo nível e performance
 - 💡 Interesses: **Arquitetura de software, DevOps e desenvolvimento de APIs com arquitetura limpas, escalaveis e performaticas**
 - 🎯 Objetivo: Contribuir para projetos open-source e criar aplicações escaláveis
@@ -28,15 +28,14 @@
 
 ## 🔥 Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 💡 Em Estudo
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
